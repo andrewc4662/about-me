@@ -3,7 +3,7 @@ Name: Andrew Chacon
 
 Email: Andrewc4662@gmail.com
 
-School: High school of Telecomunications of Arts and Technology.
+School: High school of Telecommunications of Arts and Technology.
 
 Pets: A Goldfish and a canary/parakeet mixed bird.
 
