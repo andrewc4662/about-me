@@ -25,6 +25,6 @@ My birthday is March 10th 2005.
 * 8:00 pm - 9:00 pm Finish school work or Relax if it is completed  
 * 9:00 pm - 10:00 pm Play a bit of warzone  
 * 10:00 pm - 11:00 pm brush my teeth/get ready to sleep   
-    * at 11:00 pm I sleep which usually gives me 9 hours of sleep
+    * At 11:00 pm I sleep which usually gives me 9 hours of sleep
 
 ---
