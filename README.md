@@ -11,7 +11,7 @@ School: High school of Telecommunications of Arts and Technology.
 2.  Canary/parakeet mixed bird  
 3.  Beta fish
 ---
-Bio: I am a freshman at Hstat and I was born in Brooklyn, New York On March 10th **2005** and I have been here ever since.
+Bio: I am a freshman at Hstat and I was born in Brooklyn, New York On March 10th 2005 and I have been here ever since.
 ---
 Schedule:
           * 8:00 Am Wake up/wash teeth and face  
