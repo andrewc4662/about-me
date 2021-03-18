@@ -7,8 +7,8 @@ School: High school of Telecommunications of Arts and Technology.
 
 Pets: 
 1. A Goldfish 
-2. 2. Canary/parakeet mixed bird 
-3. 3. Beta fish
+2. Canary/parakeet mixed bird 
+3. Beta fish
 
 Bio: I am a freshman at Hstat and I was born in Brooklyn, New York On march 10th 2005 and I have been here ever since.
 
