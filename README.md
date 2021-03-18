@@ -1,18 +1,19 @@
 # about-me
 Name: Andrew Chacon
-
+---
 Email: Andrewc4662@gmail.com
-
-School: High school of Telecommunications of Arts and Technology.
-
+---
+School: High school of Telecommunications of Arts and Technology.  
+[Hstat](https://www.hstat.org/)
+---
 Pets: 
-1. A Goldfish 
-2. Canary/parakeet mixed bird 
-3. Beta fish
-
+1.  A Goldfish 
+2.  Canary/parakeet mixed bird  
+3.  Beta fish
+---
 Bio: I am a freshman at Hstat and I was born in Brooklyn, New York On march 10th 2005 and I have been here ever since.
-
-Schedule:  
+---
+Schedule:
           * 8:00 Am Wake up/wash teeth and face  
           * 9:00 Am - 1:00 pm Online classes and classwork  
           * 1:00 pm - 2:00 pm Eat lunch and chill  
