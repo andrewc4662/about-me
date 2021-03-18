@@ -6,13 +6,13 @@
 School: High school of Telecommunications of Arts and Technology.  
 [Hstat](https://www.hstat.org/)
 ---
+Bio: I am a freshman at Hstat and I was born in Brooklyn, New York.  
+My birthday is March 10th 2005.
+---
 **Pets**: 
 1.  A Goldfish 
 2.  Canary/parakeet mixed bird  
-3.  Beta fish
----
-Bio: I am a freshman at Hstat and I was born in Brooklyn, New York.  
-My birthday is March 10th 2005.
+3.  Beta fishg
 ---
 Schedule:
           * 8:00 Am Wake up/wash teeth and face  
