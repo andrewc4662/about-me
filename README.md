@@ -12,9 +12,9 @@ My birthday is March 10th 2005.
 **Pets**: 
 1.  A Goldfish 
 2.  Canary/parakeet mixed bird  
-3.  Beta fishg
+3.  Beta fish
 ---
-Schedule:
+# Schedule:  
           * 8:00 Am Wake up/wash teeth and face  
           * 9:00 Am - 1:00 pm Online classes and classwork  
           * 1:00 pm - 2:00 pm Eat lunch and chill  
